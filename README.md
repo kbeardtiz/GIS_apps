@@ -1,2 +1,3 @@
 # GIS_apps
-Repository for application data and code
+Data sets in this repository are examples for code and lab exercises
+
